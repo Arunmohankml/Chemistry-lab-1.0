@@ -80,3 +80,22 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Arunmohankml/Chemistry-lab-1.0.git
+```
+
+Future Improvements
+More salt analysis reactions
+Better lab animations
+Score system for exam mode
+Viva questions
+Practical record generation
+AI chemistry assistant
+Teacher/admin mode
+Author
+
+Arun Mohan
+
+GitHub: Arunmohankml
+Portfolio: arunmohankml.github.io/portfolio
+Topics
+
+chemistry chemistry-lab virtual-lab salt-analysis kerala-syllabus higher-secondary practical-exam javascript-project html-css-javascript student-project education lab-simulator
